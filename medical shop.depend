@@ -1,0 +1,208 @@
+# depslib dependency file v1.0
+1672387118 source:d:\mogal m\medical shop\main.cpp
+	<iostream>
+	<ScreenPosition.h>
+	<login.h>
+	<Category.h>
+	<Category.h>
+	<Company.h>
+	<Validation.h>
+	<MoleCule.h>
+	<TextColor.h>
+	<Medicine.h>
+	<Validation.h>
+	<Medicine.h>
+	<typeinfo>
+	<iomanip>
+	<Sells.h>
+	<Products.h>
+
+1671699031 source:d:\mogal m\medical shop\src\sqlhelper.cpp
+	<iostream>
+	<windows.h>
+	<mysql.h>
+	<string>
+	<conio.h>
+	"SQLHelper.h"
+
+1476096933 c:\users\sangmeshwar\downloads\mysql support files\mysql support files\mysqlheaders\mysqlheaders\mysql.h
+	<sys/types.h>
+	<winsock.h>
+	"mysql_com.h"
+	"mysql_time.h"
+	"mysql_version.h"
+	"typelib.h"
+	"my_list.h"
+	"my_alloc.h"
+
+1476096946 c:\users\sangmeshwar\downloads\mysql support files\mysql support files\mysqlheaders\mysqlheaders\mysql_com.h
+
+1476096972 c:\users\sangmeshwar\downloads\mysql support files\mysql support files\mysqlheaders\mysqlheaders\mysql_time.h
+
+1476096983 c:\users\sangmeshwar\downloads\mysql support files\mysql support files\mysqlheaders\mysqlheaders\mysql_version.h
+	<custom_conf.h>
+
+1476097123 c:\users\sangmeshwar\downloads\mysql support files\mysql support files\mysqlheaders\mysqlheaders\typelib.h
+
+1476097168 c:\users\sangmeshwar\downloads\mysql support files\mysql support files\mysqlheaders\mysqlheaders\my_list.h
+
+1476097177 c:\users\sangmeshwar\downloads\mysql support files\mysql support files\mysqlheaders\mysqlheaders\my_alloc.h
+
+1671699099 d:\mogal m\medical shop\include\sqlhelper.h
+	<iostream>
+	<windows.h>
+	<mysql.h>
+	<string>
+
+1671699099 d:\mogal m\medical shop\include\login.h
+	<string.h>
+	<iostream>
+
+1672132792 source:d:\mogal m\medical shop\src\login.cpp
+	"login.h"
+	<string.h>
+	<stdlib.h>
+	<iostream>
+	<SQLHelper.h>
+	<TextColor.h>
+	<ScreenPosition.h>
+	<windows.h>
+
+1671871226 source:d:\mogal m\medical shop\src\textcolor.cpp
+	<stdlib.h>
+	<windows.h>
+	<dos.h>
+	<dir.h>
+	"TextColor.h"
+
+1671871226 d:\mogal m\medical shop\include\textcolor.h
+
+1672022780 source:d:\mogal m\medical shop\src\screenposition.cpp
+	<iostream>
+	<windows.h>
+	"ScreenPosition.h"
+
+1672022878 d:\mogal m\medical shop\include\screenposition.h
+
+1672031103 source:d:\mogal m\medical shop\src\category.cpp
+	"Category.h"
+	<login.h>
+	<iostream>
+	<TextColor.h>
+	<iomanip>
+	<typeinfo>
+	<SQLHelper.h>
+	<ScreenPosition.h>
+
+1672043521 d:\mogal m\medical shop\include\category.h
+	<iostream>
+	<string>
+
+1671699099 d:\mogal m\medical shop\include\company.h
+	<iostream>
+	<string>
+
+1672371965 source:d:\mogal m\medical shop\src\company.cpp
+	"Company.h"
+	<ScreenPosition.h>
+	<login.h>
+	<iostream>
+	<typeinfo>
+	<iomanip>
+	<TextColor.h>
+	<SQLHelper.h>
+	<string>
+	<Validation.h>
+
+1671699019 source:d:\mogal m\medical shop\src\validation.cpp
+	<iostream>
+	<string>
+	<cctype>
+	"Validation.h"
+
+1671699097 d:\mogal m\medical shop\include\validation.h
+	<iostream>
+	<string>
+
+1672457236 source:d:\mogal m\medical shop\src\molecule.cpp
+	"MoleCule.h"
+	<ScreenPosition.h>
+	<login.h>
+	<iomanip>
+	<typeinfo>
+	<iostream>
+	<TextColor.h>
+	<SQLHelper.h>
+	<string>
+	<Validation.h>
+
+1671866589 d:\mogal m\medical shop\include\molecule.h
+	<string>
+
+1672378457 source:d:\mogal m\medical shop\src\medicine.cpp
+	"Medicine.h"
+	<ScreenPosition.h>
+	<login.h>
+	<iostream>
+	<TextColor.h>
+	<SQLHelper.h>
+	<string>
+	<iomanip>
+	<typeinfo>
+	<Category.h>
+	<Company.h>
+	<Medicine.h>
+	<Validation.h>
+
+1672047034 d:\mogal m\medical shop\include\medicine.h
+	<iostream>
+	<string>
+
+1672305742 source:d:\mogal m\medical shop\src\customer.cpp
+	<iostream>
+	<string>
+	<iomanip>
+	<SQLHelper.h>
+	<Validation.h>
+	<TextColor.h>
+	<ScreenPosition.h>
+	"Customer.h"
+
+1672111040 d:\mogal m\medical shop\include\customer.h
+	<iostream>
+	<string>
+
+1672463074 source:d:\mogal m\medical shop\src\sells.cpp
+	<iostream>
+	<string>
+	<Customer.h>
+	<Products.h>
+	<SQLHelper.h>
+	"Sells.h"
+	<login.h>
+	<TextColor.h>
+	<ScreenPosition.h>
+	<iomanip>
+	<SQLHelper.h>
+	<Products.h>
+	<Validation.h>
+
+1672392760 source:d:\mogal m\medical shop\src\products.cpp
+	<iostream>
+	<string>
+	<iomanip>
+	<SQLHelper.h>
+	<TextColor.h>
+	<ScreenPosition.h>
+	<login.h>
+	<Validation.h>
+	"Products.h"
+
+1672384415 d:\mogal m\medical shop\include\products.h
+	<iostream>
+	<string>
+
+1672462033 d:\mogal m\medical shop\include\sells.h
+	<iostream>
+	<string>
+
